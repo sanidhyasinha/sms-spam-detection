@@ -236,13 +236,3 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 
 - **Deep Learning Models**: Implement models like **LSTM** or **BERT** for better accuracy.
 - **Real-time Spam Detection**: Integrate the model into a real-time application or API to detect spam messages as they are received.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This **README** provides a comprehensive overview of the project, including installation, usage, and model evaluation, structured according to the GitHub repository's folders. Let me know if you need further adjustments or additional details!
